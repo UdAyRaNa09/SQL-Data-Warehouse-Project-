@@ -2,6 +2,8 @@
 
 A SQL Server data warehouse that takes raw data from CSV files, cleans and standardizes it, and turns it into business-ready tables for analytics and reporting. The project is built on a three-layer **Bronze, Silver, Gold** architecture.
 
+![Data Warehouse Project](docs/cover.png)
+
 ---
 
 ## Project Overview
