@@ -156,5 +156,5 @@ data-warehouse-project/
 Uday Singh Rana
 https://www.linkedin.com/in/uday-singh-rana-8a638242b/
 
-Acknowledgment
+## Acknowledgment
 This project is heavily inspired by the project of Baraa Khatib Salkini from his SQL course.
